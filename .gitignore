@@ -1,0 +1,11 @@
+artifacts/
+cache/
+crytic-export/
+node_modules/
+typechain/
+*.code-workspace
+dist/
+coverage/
+scripts/
+typechain/
+hardhat.config.ts
